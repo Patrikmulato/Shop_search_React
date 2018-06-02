@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Skate';
+  font-style: normal;
+  font-weight: normal;
+  src: url('SKATRG__.TTF');
+}
+
+.title {
+  font-family: 'Skate';
+}
