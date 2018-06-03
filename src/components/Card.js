@@ -3,7 +3,7 @@ import { products } from './products.js';
 import Items from './Items';
 
 
-const Card = () => {
+const Card = ({products}) => {
   return (
     <div className="container-fluid text-center">
       {
